@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Paulescu/Paulescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Do you want to become a better data scientist? 🤔
+
+👉🏽 Subscribe to the [datamachines newsletter](https://datamachines.xyz/subscribe/).
+
+👉🏽 Follow me on [Medium](https://pau-labarta-bajo.medium.com/).
+
+Keep on learning 🧠❤️
