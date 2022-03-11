@@ -54,12 +54,6 @@ And get in touch.
 
 I am always up for new ideas and problems.
 
-We should all be this happy.
-
-Whatever we do.
-
-I guess this is the whole point of life.
-
 If you want to stay up to date with my latest courses and blogs...
 
 👉🏽 Subscribe to the [datamachines newsletter](https://datamachines.xyz/subscribe/).
