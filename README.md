@@ -21,40 +21,26 @@ Here are some ideas to get you started:
 
 ![kai_and_pau](http://datamachines.xyz/wp-content/uploads/2022/02/71264ccf-92bc-442d-bf29-4f5638c8be01.jpg)
 
-It's Pau (the one with the beard 🧔🏻, the little one is my son Kai),
+Hi there! 👋
+ 
+I am Pau, the one with the beard 🧔🏻, the little one is my son Kai.
+ 
+I am a mathematician who loves learning new things and solving problems. And this whole new world is full of them.
+ 
+But what is learning without sharing?
+To me, not much 😊. Hence, [datamachines](http://datamachines.xyz/).
+ 
+For the last 4 years, I’ve been working as a freelancer on different Machine Learning projects, and the journey’s been inspiring.
+ 
+So, I decided to start with a course on Reinforcement Learning, and so far I have an impression it’s doing well. 
+ 
+The idea is to share what I’ve learned and give value to the community. 
+ 
+So, thank you guys for following, it makes me very happy.
+ 
+Stick around and get in touch, I am always up for new ideas and problems.
 
-a curious mathematician who loves learning new things.
-
-I enjoy solving problems.
-
-And this whole new world is full of them.
-
-After solving a problem, I love sharing what I learned with the people out there who feel the same.
-
-Learn and share.
-
-```
-solution = None
-while not solution:
-  solution = try_to_solve(problem)
-export(solution)
-```
-
-For the last 5 years, my thing has been Machine Learning.
-
-I have started publishing a [course on Reinforcement Learning](http://datamachines.xyz/the-hands-on-reinforcement-learning-course/), so we both see if this is working for both of us.
-
-If you guys are getting value from what I am writing now, thank you for following. It makes me very happy.
-
-The plan is to learn and share.
-
-Stick with me.
-
-And get in touch.
-
-I am always up for new ideas and problems.
-
-If you want to stay up to date with my latest courses and blogs...
+If you want to stay up to date with my latest courses and blogs:
 
 👉🏽 Subscribe to the [datamachines newsletter](https://datamachines.xyz/subscribe/).
 
